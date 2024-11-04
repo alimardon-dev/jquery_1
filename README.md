@@ -1,2 +1,2 @@
-# jquery_1
+# jQuery_1
 Just started jquery from Angela on Udemy platform
