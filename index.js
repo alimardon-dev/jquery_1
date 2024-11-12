@@ -10,7 +10,7 @@ $(Document).ready(function(){
 $(Document).ready(function(){
     $("h1").addClass("big-title");
     $("h1").removeClass("big-title");
-    $("h1").text("Bye");
+    $("h1").text("Bye");          
     $("h1").html("<i><b>Hello again</b></i>");
     $("button").css("font-size","40px");
     $("button").css("border-radius", "10%");
